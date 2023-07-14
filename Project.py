@@ -4,13 +4,6 @@ Created on Fri Oct 23 03:00:22 2020
 
 @author: Aya Arbiat
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 21 18:26:32 2020
-
-@author: Aya Arbiat
-"""
 import math
 from sympy import symbols
 import numpy as np
