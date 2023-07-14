@@ -1,1 +1,1 @@
-# Bezier-Curve-GUI-
+# Bezier-Curve-GUI
